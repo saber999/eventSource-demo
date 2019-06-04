@@ -1,0 +1,17 @@
+{
+  "name": "eventsource-demo",
+  "version": "1.0.0",
+  "description": "this is a demo for eventSource",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eventSource"
+  ],
+  "author": "jone",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
